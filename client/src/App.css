@@ -1,0 +1,35 @@
+.colcenter{
+  padding-top: 4rem;
+  flex: 3;
+}
+.btn-centered{
+  width: 15rem;
+}
+.list-group-item.active {
+  background-color: red;
+  border-color: red;
+}
+.list-group-item.active:hover {
+  background-color: red;
+}
+.list-group-item-action:hover {
+  background-color: #f0bfb8;
+}
+.sidepad{
+  padding-left: 0px;
+  padding-top : 36px;
+}
+.visualizza-back{
+  height: 50px;
+  float: left; 
+}
+.sceltain{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.compila-titolo{
+  display: flex;
+  justify-content: center;
+}
